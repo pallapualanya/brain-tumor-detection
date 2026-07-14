@@ -1,0 +1,7 @@
+numpy
+scikit-learn
+joblib
+pillow
+
+# Optional, only needed for train_cnn_tensorflow.py:
+# tensorflow
